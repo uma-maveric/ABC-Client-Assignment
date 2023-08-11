@@ -1,0 +1,76 @@
+[
+  {
+    "id": 100,
+    "name": "John Chen",
+    "email": "john.chen@maveric.com",
+    "hireDate": "2008-10-16",
+    "orginzation": "Maveric",
+    "imageName": "steve"
+  },
+  {
+    "id": 101,
+    "name": "Ameya Job",
+    "email": "ameya.job@maveric.com",
+    "hireDate": "2013-03-06",
+    "orginzation": "Maveric",
+    "imageName": "steve"
+  },
+  {
+    "id": 102,
+    "name": "Pat Fay",
+    "email": "pat.fey@maveric.com",
+    "hireDate": "2001-03-06",
+    "orginzation": "Maveric",
+    "imageName": "steve"
+  },
+  
+  {
+    "id": 103,
+    "name": "Json Chen",
+    "email": "json.chen@citi.com",
+    "hireDate": "2008-10-16",
+    "orginzation": "Citi",
+    "imageName": "steve"
+  },
+  {
+    "id": 104,
+    "name": "Steve Job",
+    "email": "steve.job@citi.com",
+    "hireDate": "2013-03-06",
+    "orginzation": "Citi",
+    "imageName": "steve"
+  },
+  {
+    "id": 105,
+    "name": "Pat Faaf",
+    "email": "pat.faaf@citi.com",
+    "hireDate": "2001-03-06",
+    "orginzation": "Citi",
+    "imageName": "steve"
+  },
+  {
+    "id": 106,
+    "name": "Json Smith",
+    "email": "json.smith@fiinu.com",
+    "hireDate": "2008-10-16",
+    "orginzation": "Fiinu",
+    "imageName": "steve"
+  },
+  {
+    "id": 107,
+    "name": "Mike Jobs",
+    "email": "mike.job@fiinu.com",
+    "hireDate": "2013-03-06",
+    "orginzation": "Fiinu",
+    "imageName": "steve"
+  },
+  {
+    "id": 108,
+    "name": "Mat Faaf",
+    "email": "mat.faaf@fiinu.com",
+    "hireDate": "2001-03-06",
+    "orginzation": "Fiinu",
+    "imageName": "steve"
+  }
+]
+
